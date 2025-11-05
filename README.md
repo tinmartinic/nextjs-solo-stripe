@@ -49,3 +49,7 @@ Solo.com.hr pruža REST API za izdavanje fiskalnih računa, a ovaj primjer demon
 ---
 
 #https://solo.com.hr/api-dokumentacija/izrada-racuna
+
+---
+[Neviox Digital](https://nevioxdigital.com)  
+Your partner for AI-powered web and proptech solutions.
