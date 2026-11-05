@@ -51,5 +51,12 @@ Solo.com.hr pruža REST API za izdavanje fiskalnih računa, a ovaj primjer demon
 #https://solo.com.hr/api-dokumentacija/izrada-racuna
 
 ---
+
+## Srodni projekti
+
+* [stripe-parra](https://github.com/Neviox-Digital-Agency/stripe-parra): izdavanje fiskaliziranih računa u Parri za Stripe naplate pretplata.
+* [Rentijer](https://rentijer.com): aplikacija za upravljanje najmom za hrvatske iznajmljivače.
+
+---
 [Neviox Digital](https://nevioxdigital.com)  
 Your partner for AI-powered web and proptech solutions.
